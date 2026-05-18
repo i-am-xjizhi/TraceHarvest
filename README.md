@@ -23,10 +23,10 @@
 </div>
 
 <div align="center">
-  <a href="https://img.shields.io/github/downloads/i-am-xjizhi/TraceHarvest/total">
+  <a href="https://api.github.com/repos/i-am-xjizhi/TraceHarvest/releases">
     <img src="https://img.shields.io/github/downloads/i-am-xjizhi/TraceHarvest/total?labelColor=black&color=red&label=Downloads" alt="Downloads">
   </a>
-  <img src="https://img.shields.io/badge/Version-1.0-blue?labelColor=black" alt="Version: 1.0">
+  <img src="https://img.shields.io/badge/Version-2.0-blue?labelColor=black" alt="Version: 2.0">
   <a href="https://github.com/i-am-xjizhi/TraceHarvest/issues">
     <img src="https://img.shields.io/github/issues/i-am-xjizhi/TraceHarvest?labelColor=black&color=green" alt="GitHub Issues">
   </a>
@@ -35,7 +35,6 @@
     <img src="https://img.shields.io/badge/License-MIT-green.svg?labelColor=black" alt="License: MIT">
   </a>
 </div>
-
 
 
 ## 🖼️ 界面展示

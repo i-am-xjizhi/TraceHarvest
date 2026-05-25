@@ -31,9 +31,6 @@
     <img src="https://img.shields.io/github/issues/i-am-xjizhi/TraceHarvest?labelColor=black&color=green" alt="GitHub Issues">
   </a>
   <img src="https://img.shields.io/badge/OS-Windows_10/11-0078D6?labelColor=black&color=blue" alt="OS: Windows 10/11">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?labelColor=black" alt="License: MIT">
-  </a>
 </div>
 
 

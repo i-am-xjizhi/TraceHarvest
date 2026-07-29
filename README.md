@@ -129,12 +129,6 @@
 - 数据收集：为安全研究提供实证数据
 - 模式分析：研究不同行业的信息暴露特点
 - 趋势跟踪：监控特定类型信息的网络传播情况
-  
----
-
-## ⭐ Star History
-
-![Star History Chart](https://api.star-history.com/svg?repos=i-am-xjizhi/TraceHarvest&type=date&v=1)
 
 ---
 
@@ -153,10 +147,11 @@
 ## 💬 互动交流
 欢迎加入我们的安全技术交流群，与开发者和安全研究人员一起讨论安全工具的使用、漏洞挖掘等话题！
 
+
 ### 🤝 加入技术交流群
 - 微信群（推荐）
 
-![微信群](https://github.com/user-attachments/assets/780287d3-2993-4c2b-86fa-455cd1ecef69)
+![微信群](https://github.com/user-attachments/assets/129399c3-272f-48f2-ad68-2080c7357b22)
 
 
 - ➕V：xjizhi_run 进入GG安全交流群（**交流群超200人需要人工邀请，扫码+V时请备注：进群**）
